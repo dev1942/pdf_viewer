@@ -1,0 +1,6 @@
+{
+  "appTitle": "flutter_pdf_viewer",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
